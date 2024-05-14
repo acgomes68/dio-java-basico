@@ -1,3 +1,4 @@
+package edu.gomes.primeira_semana;
 public class BoletimEstudantil {
 
     public static void main(String[] args) {

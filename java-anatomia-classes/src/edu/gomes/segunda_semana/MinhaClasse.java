@@ -1,3 +1,4 @@
+package edu.gomes.segunda_semana;
 public class MinhaClasse {
 
     public static void main(String[] args) {
