@@ -34,6 +34,21 @@ public class Operadores {
         numero = - numero;
 
         System.out.println(numero);
+
+        String nome1 = "ANTONIO";
+        String nome2 = new String("ANTONIO");
+
+        if (nome1 == nome2) {
+            System.out.println("Textos são iguais com igual");
+        } else {
+            System.out.println("Textos não são iguais com igual");
+        }
+
+        if (nome1.equals(nome2)) {
+            System.out.println("Textos são iguais com equals");
+        } else {
+            System.out.println("Textos não são iguais com equals");
+        }
     }
     
 }
