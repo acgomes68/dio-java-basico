@@ -17,12 +17,6 @@
             "request": "launch",
             "mainClass": "ContaTerminal",
             "projectName": "conta-banco_32e46d6c",
-            "args": [
-                "MARIO ANDRADE",
-                "067-8",
-                "1021",
-                "237.48"
-            ]
         }
     ]
 }
