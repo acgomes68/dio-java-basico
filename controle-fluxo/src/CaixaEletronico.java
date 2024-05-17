@@ -6,7 +6,7 @@ public class CaixaEletronico {
        double valorSolicitado = 17.0;
 
        if(valorSolicitado < saldo)
-        saldo = saldo - valorSolicitado;
+        saldo -= valorSolicitado;
 
         System.out.println(saldo);
 
