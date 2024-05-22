@@ -1,3 +1,5 @@
+package navegadorInternet;
+
 public interface NavegadorInternet {
 
     public void exibirPagina(String url);
