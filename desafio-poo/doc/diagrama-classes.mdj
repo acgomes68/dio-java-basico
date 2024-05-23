@@ -754,7 +754,7 @@
 											"top": 383,
 											"width": 42.919921875,
 											"height": 13,
-											"text": "iPod"
+											"text": "IPod"
 										},
 										{
 											"_type": "LabelView",
@@ -3376,7 +3376,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "iPod",
+					"name": "IPod",
 					"ownedElements": [
 						{
 							"_type": "UMLGeneralization",
